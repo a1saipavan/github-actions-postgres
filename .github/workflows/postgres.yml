@@ -1,4 +1,4 @@
-name: PostgreSQL
+name: PostgreSQL deploy
 on: push
 jobs:
   postgres:
